@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0358D6D1-A921-4C1D-8D8B-5A09840640E0</string>
 		</dict>
+		<key>03615FB1-83FA-47BF-9F7B-77893D70BC4F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03615FB1-83FA-47BF-9F7B-77893D70BC4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_Clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_Clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram_Clone</string>
+			<key>timeStartedRecording</key>
+			<real>636845659.28660798</real>
+			<key>timeStoppedRecording</key>
+			<real>636846023.63201702</real>
+			<key>title</key>
+			<string>Run Instagram_Clone</string>
+			<key>uniqueIdentifier</key>
+			<string>03615FB1-83FA-47BF-9F7B-77893D70BC4F</string>
+		</dict>
 		<key>59E8C0AE-2B94-4EF4-90E1-4306738E20C5</key>
 		<dict>
 			<key>className</key>
@@ -74,6 +108,40 @@
 			<key>uniqueIdentifier</key>
 			<string>59E8C0AE-2B94-4EF4-90E1-4306738E20C5</string>
 		</dict>
+		<key>A4D839E6-9828-4C87-B52A-554FC65979F2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A4D839E6-9828-4C87-B52A-554FC65979F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_Clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_Clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram_Clone</string>
+			<key>timeStartedRecording</key>
+			<real>636845419.04392695</real>
+			<key>timeStoppedRecording</key>
+			<real>636845481.91649401</real>
+			<key>title</key>
+			<string>Run Instagram_Clone</string>
+			<key>uniqueIdentifier</key>
+			<string>A4D839E6-9828-4C87-B52A-554FC65979F2</string>
+		</dict>
 		<key>B94F0F86-E8E8-4AE4-9399-7F7EDAA50A19</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +175,108 @@
 			<string>Run Instagram_Clone</string>
 			<key>uniqueIdentifier</key>
 			<string>B94F0F86-E8E8-4AE4-9399-7F7EDAA50A19</string>
+		</dict>
+		<key>D64DC414-4398-4429-BDF4-33BED4168B7A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D64DC414-4398-4429-BDF4-33BED4168B7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_Clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_Clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram_Clone</string>
+			<key>timeStartedRecording</key>
+			<real>636846152.721964</real>
+			<key>timeStoppedRecording</key>
+			<real>636846213.94881296</real>
+			<key>title</key>
+			<string>Run Instagram_Clone</string>
+			<key>uniqueIdentifier</key>
+			<string>D64DC414-4398-4429-BDF4-33BED4168B7A</string>
+		</dict>
+		<key>DCACCFD8-27A1-42BD-98B9-A051E268674C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DCACCFD8-27A1-42BD-98B9-A051E268674C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_Clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_Clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram_Clone</string>
+			<key>timeStartedRecording</key>
+			<real>636846035.59105802</real>
+			<key>timeStoppedRecording</key>
+			<real>636846130.46797001</real>
+			<key>title</key>
+			<string>Run Instagram_Clone</string>
+			<key>uniqueIdentifier</key>
+			<string>DCACCFD8-27A1-42BD-98B9-A051E268674C</string>
+		</dict>
+		<key>E65E4AD6-E815-41AE-AF4F-4F17D4DEF709</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E65E4AD6-E815-41AE-AF4F-4F17D4DEF709.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_Clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_Clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Instagram_Clone</string>
+			<key>timeStartedRecording</key>
+			<real>636844834.01206696</real>
+			<key>timeStoppedRecording</key>
+			<real>636844926.91831994</real>
+			<key>title</key>
+			<string>Run Instagram_Clone</string>
+			<key>uniqueIdentifier</key>
+			<string>E65E4AD6-E815-41AE-AF4F-4F17D4DEF709</string>
 		</dict>
 	</dict>
 </dict>
