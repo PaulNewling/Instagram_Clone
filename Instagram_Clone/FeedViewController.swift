@@ -173,9 +173,9 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         PFUser.logOut()
         print("Log Out")
         let main = UIStoryboard(name: "Main", bundle: nil)
-        let LoginViewController = main.instantiateViewController(withIdentifier: "LoginViewController")
-        //Missing parts here to logout
-        
+        let loginViewController = main.instantiateViewController(withIdentifier: "LoginViewController")
+        let delegate = self.view.window?.windowScene?.delegate as! SceneDelegate
+        delegate.window?.rootViewController = loginViewController
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
